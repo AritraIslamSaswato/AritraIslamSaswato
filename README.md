@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 
-I am a Computer Science student specializing in **research-driven AI systems**, with particular expertise in **Computer Vision** and **AI for Additive Manufacturing**. My work integrates deep learning architectures, data-driven modeling approaches, and practical engineering applications to solve complex real-world problems.
+I am a Computer Science student specializing in **research-driven AI systems**, with particular interest in **Computer Vision** and **AI for Additive Manufacturing**. My work integrates deep learning architectures, data-driven modeling approaches, and practical engineering applications to solve complex real-world problems.
 
 ---
 
