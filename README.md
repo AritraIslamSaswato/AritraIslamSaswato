@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 🚀 About Me  <br><br>I am a Computer Science student focused on building **research-driven AI systems**, with strong emphasis on **Computer Vision and AI for Additive Manufacturing**. My work combines deep learning, data-driven modeling, and real-world engineering applications.<br><br>---<br><br>## 🔍 Research Focus  <br><br>### 🎥 Computer Vision & Video Understanding  <br>- Video anomaly detection  <br>- Temporal moment retrieval    <br>- Vision-based representation learning  <br><br>### 🏭 AI for Additive Manufacturing & Materials Engineering  <br>- Fatigue life prediction of 3D-printed PLA  <br>- Porosity and defect prediction in metal AM (e.g., AlSiMg)  <br>- Data-driven degradation modeling  <br>  <br><br><br>
+## 🚀 About Me  <br><br>I am a Computer Science student focused on building **research-driven AI systems**, with strong emphasis on **Computer Vision and AI for Additive Manufacturing**. My work combines deep learning, data-driven modeling, and real-world engineering applications.<br><br>---<br><br>## 🔍 Research Focus  <br><br>### ~ Computer Vision & Video Understanding  <br>- Video anomaly detection  <br>- Temporal moment retrieval    <br>- Vision-based representation learning  <br><br>### ~ AI for Additive Manufacturing & Materials Engineering  <br>- Fatigue life prediction of 3D-printed PLA  <br>- Porosity and defect prediction in metal AM (e.g., AlSiMg)  <br>- Data-driven degradation modeling  <br>  <br><br><br>
 
 
 ## 🌐 Socials:
@@ -15,4 +15,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AritraIslamSaswato&icon=8&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
