@@ -45,12 +45,10 @@ I am a Computer Science student specializing in **research-driven AI systems**, 
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AritraIslamSaswato&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)
+
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=AritraIslamSaswato&theme=blue_navy&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AritraIslamSaswato&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=AritraIslamSaswato&icon=8&color=1)](https://visitcount.itsvg.in)
