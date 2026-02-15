@@ -49,6 +49,6 @@ I am a Computer Science student specializing in **research-driven AI systems**, 
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=AritraIslamSaswato&theme=blue_navy&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AritraIslamSaswato&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 
