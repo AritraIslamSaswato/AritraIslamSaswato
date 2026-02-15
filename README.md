@@ -1,6 +1,5 @@
 # 💫 About Me
 
-## 🚀 Overview
 
 I am a Computer Science student studying at North South University, with particular interest in **Computer Vision** and **AI for Additive Manufacturing**. My work integrates deep learning architectures, data-driven modeling approaches, and practical engineering applications to solve complex real-world problems.
 
