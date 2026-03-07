@@ -14,7 +14,7 @@ I am a Computer Science student studying at North South University, with particu
 
 ### AI for Additive Manufacturing & Materials Science
 - Fatigue life prediction modeling for 3D-printed PLA components
-- Porosity and defect prediction in metal additive manufacturing (AlSiMg alloys)
+- Porosity and defect prediction in additive manufacturing 
 - Data-driven degradation modeling and failure analysis
 - Process-structure-property relationships in AM materials
 
