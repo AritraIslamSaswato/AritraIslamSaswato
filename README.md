@@ -9,15 +9,27 @@ I am a Computer Science student studying at North South University, with particu
 
 ### Computer Vision & Video Understanding
 - Video anomaly detection and temporal pattern recognition
-- Temporal moment retrieval in video sequences
+- Temporal moment retrieval from natural language queries
+- Vision-language modeling and cross-modal representation learning
 - Vision-based representation learning and feature extraction
+
+### Neuromorphic AI & Spiking Neural Networks
+- Spiking Neural Networks (SNNs) for efficient visual perception
+- Event-driven neural computation and neuromorphic learning
+- Energy-efficient deep learning architectures
+- Spiking Graph Neural Networks for structured and spatial data
+
+### Multimodal & Vision-Language Models
+- Multimodal learning integrating text, video, and audio modalities
+- Vision-Language Models (VLMs) for video understanding
+- Transformer-based cross-modal alignment and representation learning
+- Efficient multimodal LLM architectures
 
 ### AI for Additive Manufacturing & Materials Science
 - Fatigue life prediction modeling for 3D-printed PLA components
-- Porosity and defect prediction in additive manufacturing 
+- Porosity and defect prediction in additive manufacturing
 - Data-driven degradation modeling and failure analysis
-- Process-structure-property relationships in AM materials
-
+- Process–structure–property relationships in AM materials
 ---
 
 ## 🌐 Connect With Me
