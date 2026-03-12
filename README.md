@@ -1,10 +1,3 @@
-<h1 align="center">Hey 👋 I am Aritra</h1>
-
-<div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&theme=cobalt"/>
-</div>
-
----
 
 # ☢️ About Me
 
@@ -92,16 +85,3 @@ I am a Computer Science student studying at **North South University**, with par
 
 ---
 
-# 👾 Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AritraIslamSaswato/AritraIslamSaswato/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AritraIslamSaswato/AritraIslamSaswato/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AritraIslamSaswato/AritraIslamSaswato/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
-<div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&theme=cobalt"/>
-</div>
